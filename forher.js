@@ -1,1 +1,1 @@
-alert("WARNING I LOVE U ")
+alert("WARNING IT'S VERY SERIOUS!!!!! ")
